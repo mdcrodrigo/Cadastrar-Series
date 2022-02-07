@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eliezer/sandbox/dio/DIO.Series/DIO.Series.csproj",
-      "projectName": "DIO.Series",
-      "projectPath": "/home/eliezer/sandbox/dio/DIO.Series/DIO.Series.csproj",
+      "projectUniqueName": "/home/eliezer/sandbox/dio/Series/Series.csproj",
+      "projectName": "Series",
+      "projectPath": "/home/eliezer/sandbox/dio/Series/Series.csproj",
       "packagesPath": "/home/eliezer/.nuget/packages/",
-      "outputPath": "/home/eliezer/sandbox/dio/DIO.Series/obj/",
+      "outputPath": "/home/eliezer/sandbox/dio/Series/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
